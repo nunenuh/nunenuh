@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nunenuh&theme=transparent&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nunenuh&theme=transparent)](https://git.io/streak-stats)
 <!--
 **nunenuh/nunenuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
