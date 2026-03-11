@@ -1,11 +1,12 @@
   <div align="center">                                                                                                                                                                        
     <img src="https://github-readme-streak-stats.herokuapp.com?user=nunenuh&theme=transparent" alt="GitHub Streak" width="49%" />                                                             
     <img src="https://github-readme-stats.vercel.app/api?username=nunenuh" alt="GitHub Stats" width="49%" />                                                                                  
-    <br/>                                       
-    <img                                        
+    <br/>                      
+    <img                                         
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunenuh&langs_count=5&hide=javascript,html,php,coffeescript,css,Dockerfile,c,C++,jupyter%20notebook&layout=compact" 
-  alt="Top Langs" width="49%" />
+  alt="Top Langs" width="35%" />
   </div>
+
 
 <!--
 **nunenuh/nunenuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
